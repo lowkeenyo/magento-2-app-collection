@@ -1,10 +1,12 @@
-# magento-2-app-collection
-Useful extension list 2019
+<h1>Magento 2 List of things</h1>
+<p>Useful extension and programs list for developing and managing a magento 2.2 environment </p>
 
 <h1>Loekino's Ultimate Extension List</h1>
 <p>Mostly free extensions or modules that you could use to improve your webshop. <strong>Very personalized to my needs</strong>. There is a way better link here:</p>
-<a href="https://github.com/DavidLambauer/awesome-magento2">
+<p><a href="https://github.com/DavidLambauer/awesome-magento2">Better list than mine slashsadface</a></p>
 
+<h2>Systems Management Tools</h2>
+<li><a href="https://www.solarwinds.com/downloads">Solar puTTY</a></li>
 
 <h2>List for Magento 2.2.x</h2>
 <strong>Crucial</strong>
