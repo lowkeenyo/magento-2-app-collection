@@ -3,7 +3,7 @@ Useful extension list 2019
 
 <h1>Loekino's Ultimate Extension List</h1>
 <p>Mostly free extensions or modules that you could use to improve your webshop. <strong>Very personalized to my needs</strong>. There is a way better link here:</p>
-<a href="https://github.com/DavidLambauer/awesome-magento2" target="_blank">
+<a href="https://github.com/DavidLambauer/awesome-magento2">
 
 
 <h2>List for Magento 2.2.x</h2>
